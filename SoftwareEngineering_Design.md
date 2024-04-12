@@ -2,4 +2,4 @@
 
 # Inventory App
 
-[This link](Artifact1.zip) goes to the original inventory project, before the enhancements were made. 
+[This link](InventoryApp_Original.zip) goes to the original inventory project, before the enhancements were made. 
