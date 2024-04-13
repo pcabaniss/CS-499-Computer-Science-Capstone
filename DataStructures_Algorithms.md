@@ -2,4 +2,4 @@
 
 # This is a page for the data structures and algorithm artifact explaination!
 
-[This link](BiinarySearchTreeC++.zip) goes to the original inventory project, before the enhancements were made. 
+[This link](BinarySearchTreeC++.zip) goes to the original inventory project, before the enhancements were made. 
