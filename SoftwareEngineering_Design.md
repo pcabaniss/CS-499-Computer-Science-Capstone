@@ -25,7 +25,7 @@ These specific enhancements demonstrate my understanding of UI design principles
 
 The last enhancement made was to the code. I added file headers, inline comments, and restructured some functionality so that it was not so redundant or cluttered. The following is an example of the ListItem.java that was commented on well with a full header file at the top. 
 
-Markup : '
+
 
     //============================================================================
     // Name        : ListItem.java
@@ -123,6 +123,6 @@ Markup : '
         return itemQuantity;
     }
 
-    }'
+    }
 This enhancement shows my ability to produce well-rounded code that is commented well. The restructuring of functions in the file shows my skills with understanding the structure of a program and how to alter it successfully. All of the minor errors were fixed in the process making this a polished, well-rounded application. This enhancement is an example of my second course outcome completed: "Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science."
 
