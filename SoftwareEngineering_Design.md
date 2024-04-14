@@ -1,8 +1,8 @@
 [Home](README.md) - [Code Review](CodeReview.md) - [Software Engineering and Design](SoftwareEngineering_Design.md) - [Data Structures and Algorithms](DataStructures_Algorithms.md) - [Databases](Database.md)
 
-### Inventory App
+# Inventory App
 
-# Narrative
+### Narrative
 The artifact was the Inventory application I made in CS-360 Mobile Architecture and Programming about 2 terms ago. The application serves as an inventory for keeping track of any items added. The main components are a login screen, an inventory screen, a screen for individual items, and a settings screen for push notifications. The enhancements I made revolved around re-working the overall UI, adding a field for details on the item screen, and making sure all inputs are validated. 
 
 [This link](InventoryApp_Original.zip) goes to the original inventory project, before the enhancements were made.
@@ -11,7 +11,7 @@ The artifact was the Inventory application I made in CS-360 Mobile Architecture 
 
 ![image](images/original_item.png)
 
-# Enhancements 
+### Enhancements 
 [This link](Artifact1.zip) goes to the altered inventory project, after the enhancements were made.
 
 The first enhancements made were mainly to the UI, where I altered the color scheme, fixed various grammar issues, and fixed errors directly affecting the flow of the application. There was issues with the item count not updating as well as fixed an empty list message. 
