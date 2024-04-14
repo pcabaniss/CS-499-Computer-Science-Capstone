@@ -14,7 +14,6 @@ While this is the main functionality of the program, many methods are operating 
 [This link](BinarySearchTreeC++.zip) goes to the original Binary Search Tree project.
 
 Original C++ main function:
-Markup: '
 
     int main(int argc, char* argv[]) {
 
@@ -101,12 +100,12 @@ Markup: '
     cout << "Good bye." << endl;
 
 	return 0;
-    }'
+    }
 ### Enhancements
 The enhancement planned was to build the exact program in the Java language. This came with its own issues. For example, the .csv parser in C++ was provided by the instructor of the course when it was made. In Java, there is a CSVParser class that I implemented to parse and sort the .csv file. This sorted list could then be interacted with using the terminal. All of the functionality in the C++ version was implemented in the Java version. I made a few enhancements to the code structure as well. I put the binary search tree in its own file for better organization and less clutter on the main. This artifact showcases my understanding of both C++ and the Java language and structure. 
 
 [This link](Artifact2.zip) goes to the original Binary Search Tree project.
-Markup: '
+
 
     //============================================================================
     // Name        : Main.java
@@ -230,7 +229,7 @@ Markup: '
 
     }
 
-    }'
+    }
 
 
 This enhancement is a clear indicator of my understanding of 2 more of the course outcomes. 
