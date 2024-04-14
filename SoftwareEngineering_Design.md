@@ -12,6 +12,8 @@ The artifact was the Inventory application I made in CS-360 Mobile Architecture 
 ![image](images/original_item.png)
 
 # Enhancements 
+[This link](Artifact1.zip) goes to the altered inventory project, after the enhancements were made.
+
 The first enhancements made were mainly to the UI, where I altered the color scheme, fixed various grammar issues, and fixed errors directly affecting the flow of the application. There was issues with the item count not updating as well as fixed an empty list message. 
 
 ![image](images/new_homeScreen.png)
@@ -123,3 +125,4 @@ Markup : '
 
     }'
 This enhancement shows my ability to produce well-rounded code that is commented well. The restructuring of functions in the file shows my skills with understanding the structure of a program and how to alter it successfully. All of the minor errors were fixed in the process making this a polished, well-rounded application. This enhancement is an example of my second course outcome completed: "Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science."
+
