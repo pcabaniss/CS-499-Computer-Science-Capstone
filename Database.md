@@ -13,7 +13,7 @@ The existing issues with this application that apply directly to the database we
 The enhancements made really brought this application together. It fixed a lot of issues with saving and displaying data correctly. I also moved files around for better organization. I added indicators to the database tables. Then I updated the API calls to the database and fixed the issues with logging in. Lastly, I added checks and some input validation for improved security. This is the inventory database after adding the indicator(username) to the table.
 
 
-
+```
       private static final class InventoryTable {
         private static final String TABLE = "inventory";
         private static final String COL_USERNAME = "username";
@@ -22,11 +22,11 @@ The enhancements made really brought this application together. It fixed a lot o
         private static final String COL_DESCRIPTION = "description";
         private static final String COL_QUANTITY = "quantity";
       }
-        
+```        
 
 This is the AuthenticationManager class that controlled the instance of user. When you saved or altered data, it would return the current user instance. Fixing this allowed the application to differentiate between users and securely provide checks before data alteration. 
 
-
+```
     //============================================================================
     // Name        : AuthenticationManager.java
     // Author      : Phillip Cabaniss
@@ -68,6 +68,7 @@ This is the AuthenticationManager class that controlled the instance of user. Wh
         this.user = user;
     }
     }
+```
 This artifact showcases my understanding of databse concepts and design. It clearly conveys my grasp and execution of the final course outcomes: 
 •	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 •	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
